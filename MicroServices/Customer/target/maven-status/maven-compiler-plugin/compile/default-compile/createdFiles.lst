@@ -1,0 +1,9 @@
+Microservices\customer\Customer$CustomerBuilder.class
+Microservices\customer\CustomerApplication.class
+Microservices\customer\CustomerConfig.class
+Microservices\customer\CustomerRegistrationRequest.class
+Microservices\customer\FraudCheckResponse.class
+Microservices\customer\Customer.class
+Microservices\customer\CustomerRepository.class
+Microservices\customer\CustomerService.class
+Microservices\customer\CustomerController.class
